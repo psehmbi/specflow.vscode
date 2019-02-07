@@ -1,0 +1,15 @@
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\specflow.vscode.deps.json
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\specflow.vscode.runtimeconfig.json
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\specflow.vscode.runtimeconfig.dev.json
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\specflow.vscode.dll
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\specflow.vscode.pdb
+C:\dev\specflow.vscode\obj\Debug\netcoreapp2.1\specflow.vscode.csprojAssemblyReference.cache
+C:\dev\specflow.vscode\obj\Debug\netcoreapp2.1\specflow.vscode.csproj.CoreCompileInputs.cache
+C:\dev\specflow.vscode\obj\Debug\netcoreapp2.1\specflow.vscode.AssemblyInfoInputs.cache
+C:\dev\specflow.vscode\obj\Debug\netcoreapp2.1\specflow.vscode.AssemblyInfo.cs
+C:\dev\specflow.vscode\obj\Debug\netcoreapp2.1\specflow.vscode.dll
+C:\dev\specflow.vscode\obj\Debug\netcoreapp2.1\specflow.vscode.pdb
+C:\dev\specflow.vscode\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
